@@ -3,7 +3,7 @@ This project analyzes sales data from **ExpressMart**, a retail and e-commerce c
 
 ## 📖 Medium Article
 Read the full project analysis on Medium:  
-👉 [How Data Analytics Can Drive Sales Growth at ExpressMart](https://medium.com/@frimpongelvis/expressmart-sales-dashboard-insights)
+👉 [How Data Analytics Can Drive Sales Growth at ExpressMart](https://medium.com/@elvisfrimpong.da/how-i-used-excel-to-uncover-sales-insights-at-expressmart-992dda6e867c)
 
 ## 🔍 Project Overview
 
