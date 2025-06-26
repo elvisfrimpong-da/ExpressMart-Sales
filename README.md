@@ -44,6 +44,15 @@ The dashboard includes:
 - Conditional Formatting
 - Slicers and Interactive Filters
 
+  ## 📥 Download the Excel Dashboard
+
+The full Microsoft Excel dashboard file is available via Google Drive due to GitHub’s file size limitations.
+
+👉 [Click here to download the ExpressMart Sales Dashboard (Excel File)](https://docs.google.com/spreadsheets/d/1Rq0EnuVA4A7lnTgcsJkruJSBu5kVlweN/edit?usp=sharing&ouid=106979039784159948514&rtpof=true&sd=true)
+
+> Please make sure you have access to Microsoft Excel to fully interact with the dashboard features (pivot charts, slicers, conditional formatting, etc.).
+
+
 ## 📌 Author
 
 **Frimpong Elvis**  
