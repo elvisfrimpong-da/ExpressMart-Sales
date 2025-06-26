@@ -19,6 +19,7 @@ Despite strong sales, ExpressMart seeks to better understand customer behavior, 
 - Develop an actionable Excel dashboard
 
 ## 📈 Dashboard Features
+![Screenshot 2025-06-26 095032](https://github.com/user-attachments/assets/03a72b29-b3e2-4e72-9efa-042d2e9a117c)
 
 The dashboard includes:
 - 📅 Sales by Month, Quarter, and Hour
@@ -28,7 +29,6 @@ The dashboard includes:
 - 📊 KPI Summary: Total Sales, Quantity Sold, Product Count
 - 🔍 Interactive Filters for Month, City, Year, Quarter, and AM/PM
 
-![Dashboard Screenshot](./visuals/dashboard_screenshot.png)
 
 ## 🧠 Key Insights
 
